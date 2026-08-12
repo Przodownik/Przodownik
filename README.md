@@ -1,7 +1,7 @@
 ## Projects
 
 - ### High Performance Game Engine and Editor
-In-development game engine built entirely in C++, with a custom OpenGL renderer and high-performance ECS architecture for streamlined development. Additionally, the engine features a native C# (.NET 8.0) scripting engine for flexibility, along with comprehensive editor/runtime support and a GUI editor powered by ImGui. With a strong focus on performance and utilizing a range of libraries, including ENTT, Box2D, glm math, stb, and more.
+Game engine built entirely in C++, with a custom OpenGL renderer and high-performance ECS architecture for streamlined development. Additionally, the engine features a native C# (.NET 8.0) scripting engine for flexibility, along with comprehensive editor/runtime support and a GUI editor powered by ImGui. With a strong focus on performance and utilizing a range of libraries, including ENTT, Box2D, glm math, stb, and more.
 
 ![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/66173b15-1c05-4456-a046-230018c52a84)
 
@@ -18,7 +18,7 @@ Software able to convert recorded, dynamic point cloud data captured by a moving
 
 ![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/c0aea5ba-6adc-4a32-926c-47fc84af2816)
 
-## `The aforementioned project is proprietary. Source and a walkthrough can be granted upon request.`
+## `The aforementioned project is proprietary. Source access and a walkthrough can be granted upon request.`
 
 - ### Engineering thesis "IT system for algorithmic optimization of warehouse package placement with 3D visualization"
 The project aimed to implement an algorithmically supported IT system enabling the optimal placement of packages in a warehouse, visualized in a three-dimensional space. The project's scope included implementing a web application with a database supplemented by an 
@@ -33,4 +33,4 @@ specification of placement and storage requirements. Working in conjunction with
 
 ![obraz](https://github.com/user-attachments/assets/cecbf419-036c-4393-bc5e-3eeac08867f8)
 
-## `The aforementioned project is proprietary. Source and a walkthrough can be granted upon request.`
+## `The aforementioned project is proprietary. Source access and a walkthrough can be granted upon request.`
