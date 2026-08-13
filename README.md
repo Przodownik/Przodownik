@@ -3,34 +3,30 @@
 - ### High Performance Game Engine and Editor
 Game engine built entirely in C++, with a custom OpenGL renderer and high-performance ECS architecture for streamlined development. Additionally, the engine features a native C# (.NET 8.0) scripting engine for flexibility, along with comprehensive editor/runtime support and a GUI editor powered by ImGui. With a strong focus on performance and utilizing a range of libraries, including ENTT, Box2D, glm math, stb, and more.
 
-![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/66173b15-1c05-4456-a046-230018c52a84)
+<img width="1908" height="1016" alt="image" src="https://github.com/user-attachments/assets/1b8e36f9-c99d-4aa4-8210-00a7ff437fe1" />
 
-![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/2142b10e-5ee9-454a-91eb-ec77b0ceacb7)
-
-![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/ff76092d-de2f-444a-8905-6bb2df338fd4)
+<img width="1421" height="883" alt="image" src="https://github.com/user-attachments/assets/f817c153-78c5-4ba3-a058-df8a38dd0558" />
 
 - ### SLAM-based Point Cloud Generation, 3D Triangle Mesh Visualizator (KISS-ICP expansion)
 Software able to convert recorded, dynamic point cloud data captured by a moving robot gathering data using LiDAR into a seamless triangle mesh. Developed using C++ and python, leveraging advanced libraries such as Eigen, TBB, Sophus, and with help of KISS-ICP project, this software offers lightning-fast real-time calculations and visualization of the generated mesh in a 3D environment.
 
-![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/a1ec9279-6537-4d59-a723-c04abd08696c)
+<img width="800" height="354" alt="image" src="https://github.com/user-attachments/assets/bbf7f6bd-3f62-4389-92a1-a2d4645cd8db" />
 
-![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/956b6150-7720-44f3-9694-4f8039621830)
+<img width="800" height="282" alt="image" src="https://github.com/user-attachments/assets/d1cefb12-80d0-4b99-b47a-e5d894d6e03b" />
 
-![image](https://github.com/Tycjan-Fortuna-IT/Tycjan-Fortuna-IT/assets/114949616/c0aea5ba-6adc-4a32-926c-47fc84af2816)
-
-## `The aforementioned project is proprietary. Source access and a walkthrough can be granted upon request.`
+<img width="800" height="338" alt="image" src="https://github.com/user-attachments/assets/0a3b1b7d-053f-42b5-b0b1-6d2ed50e6015" />
 
 - ### Engineering thesis "IT system for algorithmic optimization of warehouse package placement with 3D visualization"
 The project aimed to implement an algorithmically supported IT system enabling the optimal placement of packages in a warehouse, visualized in a three-dimensional space. The project's scope included implementing a web application with a database supplemented by an 
 optimization and visualization module. The optimization module based on a tailored metaheuristic algorithm was adapted to the multi-container nature of the problem of **multi-container multi-package multi-constraint three-dimensional bin-packing**. It allows for the 
 specification of placement and storage requirements. Working in conjunction with the algorithm’s output, the visualization module provides a graphical representation of the optimal package placement in a three-dimensional space. By combining those elements together, the system will provides a helpful insight into the efficiency of item storage in environments where space efficiency and packing requirements are not to be overlooked. Web application was made using vue.js and laravel, visualization module was made using OpenGL.
 
-![obraz](https://github.com/user-attachments/assets/f27502d8-34ff-41a9-8c81-6fba0287a06d)
+<img width="764" height="431" alt="image" src="https://github.com/user-attachments/assets/d316f10a-08d1-4cae-a6f8-795b95aa82a5" />
 
-![obraz](https://github.com/user-attachments/assets/25f1182b-b0f1-44a0-be0a-da18b700feef)
+<img width="776" height="430" alt="image" src="https://github.com/user-attachments/assets/aaf60ed4-bb43-4e52-9c29-e604a789b151" />
 
-![obraz](https://github.com/user-attachments/assets/9c431b0a-f180-473e-80b6-96ee1d4a52f0)
+<img width="773" height="434" alt="image" src="https://github.com/user-attachments/assets/d2e2aa06-96e7-460e-9fca-cc709f04911c" />
 
-![obraz](https://github.com/user-attachments/assets/cecbf419-036c-4393-bc5e-3eeac08867f8)
+<img width="776" height="432" alt="image" src="https://github.com/user-attachments/assets/96502a35-126a-4535-b35a-2d98ea7df7b5" />
 
 ## `The aforementioned project is proprietary. Source access and a walkthrough can be granted upon request.`
