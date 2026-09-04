@@ -16,6 +16,8 @@ Software able to convert recorded, dynamic point cloud data captured by a moving
 
 <img width="800" height="338" alt="image" src="https://github.com/user-attachments/assets/0a3b1b7d-053f-42b5-b0b1-6d2ed50e6015" />
 
+## The aforementioned project is proprietary. Source access and a walkthrough can be granted upon request.
+
 - ### Engineering thesis "IT system for algorithmic optimization of warehouse package placement with 3D visualization"
 The project aimed to implement an algorithmically supported IT system enabling the optimal placement of packages in a warehouse, visualized in a three-dimensional space. The project's scope included implementing a web application with a database supplemented by an 
 optimization and visualization module. The optimization module based on a tailored metaheuristic algorithm was adapted to the multi-container nature of the problem of **multi-container multi-package multi-constraint three-dimensional bin-packing**. It allows for the 
@@ -29,4 +31,4 @@ specification of placement and storage requirements. Working in conjunction with
 
 <img width="776" height="432" alt="image" src="https://github.com/user-attachments/assets/96502a35-126a-4535-b35a-2d98ea7df7b5" />
 
-## `The aforementioned project is proprietary. Source access and a walkthrough can be granted upon request.`
+## The aforementioned project is proprietary. Source access and a walkthrough can be granted upon request.
